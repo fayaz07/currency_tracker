@@ -5,7 +5,4 @@ Automatically refreshes the selected currency rates after specified number of se
 
 ### Screenshots
 ---
-![img1](screenshots/Screenshot_1616670487.png)
-![img2](screenshots/Screenshot_1616670499.png)
-![img3](screenshots/Screenshot_1616670526.png)
-![img4](screenshots/Screenshot_1616670532.png)
+<img src="screenshots/Screenshot_1616670487.png" height="35%" width="35%"/> <img src="screenshots/Screenshot_1616670499.png" height="35%" width="35%"/> <img src="screenshots/Screenshot_1616670526.png" height="35%" width="35%" /> <img src="screenshots/Screenshot_1616670532.png" height="35%" width="35%" />
